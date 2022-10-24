@@ -6,10 +6,8 @@
 
 def main():
 
+    print("Hello")
 
-
-    
-    
     
     
     
